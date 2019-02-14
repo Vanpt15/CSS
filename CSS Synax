@@ -1,0 +1,43 @@
+<DOCTYPE html>
+<html>
+<head>
+<style>
+/*Comment*/
+#para1 {
+	color:green;
+	}
+#para2 {
+	color:blue;
+}
+#para3 {
+	color:yellow;
+}
+p.p1 {
+	color:red;
+}
+.c {
+	text-align:center;
+	color:brown;
+}
+p.p2 {
+	text-align:center;
+}
+h1, h2, h3 {
+	color:violet;
+}
+
+</style>
+</head>
+<body>
+<h1>acdjk</h1>
+<h2>dksns s</h2>
+<h3>cndsjfius</h3>
+<h class="p1 p2">dhjf dkf djgkf</h>
+<p class="p1 p2">hyreh ff</p>
+<p class="c">I know you been here before</p>
+<p id="p1">dsg fgyfhdcvfhg kjdcb</p>
+<p id="para1">Tôi đứng đây, với sự tôn trọng và biết ơn sâu sắc, tuyên bố sứ mệnh Opportunity đã hoàn thành", chuyên gia Thomas Zurbuchen phát biểu trong buổi họp báo của Phòng thí nghiệm Sức đẩy Phản lực (JPL) thuộc NASA. Ông cũng cho biết, tàu thám hiểm giúp thay đổi hiểu biết của con người về Trái Đất, sao Hỏa và mang lại nhiều bước tiến trong khoa học.</p>
+<p id="para2">Opportunity đáp xuống sao Hỏa tháng 1/2004, không lâu sau khi "người anh em" Spirit hạ cánh. Bộ đôi này nằm trong chương trình Xe thám hiểm sao Hỏa của NASA. Tuy nhiên, Spirit bị kẹt trong đất mềm vào năm 2009 và được xác định là ngừng hoạt động năm 2011.</p>
+<p id="para3">Opportunity tiếp tục sinh tồn trên bề mặt hành tinh đỏ và truyền dữ liệu về Trái Đất, giống như một "nhà địa chất" làm việc từ xa. Chiếc xe được thiết kế để hoạt động trong 90 ngày với quãng đường di chuyển khoảng một km. Tuy nhiên, nó đã chạy hơn 45 km và làm việc suốt 15 năm.</p>
+</body>
+</html>
